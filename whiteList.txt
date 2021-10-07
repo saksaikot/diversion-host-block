@@ -364,3 +364,4 @@ connectivitycheck.gstatic.com
 connectivitycheck.android.com
 www.msftconnecttest.com
 www.gstatic.com
+apis.google.com
