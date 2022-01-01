@@ -366,3 +366,66 @@ www.msftconnecttest.com
 www.gstatic.com
 apis.google.com
 officecdn.microsoft.com.edgesuite.net
+
+# A Host file to whitelist as little as possible on Facebook & Messenger, while still making them usable!
+# https://github.com/zlatco/FB_Whitelist/blob/master/FB_Whitelist.txt
+#
+# Adlists used, (Beware that using list no. 1 and 2 also block Whatsapp and Instagram !!):
+# 1) https://www.github.developerdan.com/hosts/lists/facebook-extended.txt
+# 2) https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all
+# 3) https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
+#
+# If you use Instagram and Whatsapp, use ONLY Adlist no. 3.
+#
+# Use:
+# Copy all the domains in the list and paste them into Group Management > Domains and select Add to Whitelist.
+#
+######################################################################
+# Version: v1.0.4 
+# Project home page: https://github.com/zlatco/FB_Whitelist
+# Licence: https://github.com/zlatco/FB_Whitelist/blob/master/LICENSE
+# Title: Zlatco Facebook Whitelist
+######################################################################
+#
+star-mini.c10r.facebook.com	
+star.c10r.facebook.com	
+scontent.xx.fbcdn.net	
+external-cph2-1.xx.fbcdn.net
+video-cph2-1.xx.fbcdn.net
+messenger.com	
+connect.facebook.net
+scontent-cph2-1.xx.fbcdn.net
+edge-chat.messenger.com
+video.xx.fbcdn.net
+web.facebook.com
+rupload.facebook.com
+edge-mqtt.facebook.com
+edge-chat.facebook.com
+mqtt-mini.facebook.com
+mqtt.c10r.facebook.com
+m.facebook.com
+facebook.com
+static.xx.fbcdn.net
+www.facebook.com
+www.messenger.com
+media0.giphy.com
+media1.giphy.com
+media2.giphy.com
+media3.giphy.com
+media.tenor.co
+upload.messenger.com
+star.facebook.com
+external.xx.fbcdn.net
+limited-prod.giphy.map.fastly.net
+external-arn2-1.xx.fbcdn.net
+scontent-arn2-1.xx.fbcdn.net
+cdn.fbsbx.com
+graph.facebook.com
+lm.facebook.com
+media4.giphy.com
+l.facebook.com
+#
+##############################################################
+# User submitted below:
+##############################################################
+#
